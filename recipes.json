@@ -1,0 +1,668 @@
+{
+  "meals": {
+    "Breakfast": {
+      "Pancakes": {
+        "Fluffy Buttermilk Pancakes": {
+          "image":"/img/1.webp",
+          "time": "20 minutes",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "2 tablespoons sugar",
+            "1 teaspoon baking powder",
+            "1/2 teaspoon baking soda",
+            "1/2 teaspoon salt",
+            "2 cups buttermilk",
+            "2 large eggs",
+            "1/4 cup unsalted butter, melted"
+          ],
+          "directions": [
+            "In a large bowl, whisk together flour, sugar, baking powder, baking soda, and salt.",
+            "In another bowl, whisk buttermilk, eggs, and melted butter.",
+            "Pour the wet ingredients into the dry ingredients and stir until just combined.",
+            "Heat a non-stick skillet over medium heat and lightly grease with butter or oil.",
+            "Pour 1/4 cup of batter onto the skillet for each pancake. Cook until bubbles form on the surface, about 2-3 minutes.",
+            "Flip and cook the other side until golden brown, about 1-2 minutes more.",
+            "Serve with syrup, butter, or your favorite toppings."
+          ]
+        },
+           "Banana Pancakes": {
+            "image":"/img/2.webp",
+          "time": "30 minutes",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "1/4 cup sugar",
+            "1 teaspoon baking powder",
+            "1/2 teaspoon baking soda",
+            "1/2 teaspoon salt",
+            "2 ripe bananas, mashed",
+            "2 cups buttermilk",
+            "2 large eggs",
+            "1/4 cup unsalted butter, melted"
+          ],
+          "directions": [
+            "In a large bowl, whisk together flour, sugar, baking powder, baking soda, and salt.",
+            "In another bowl, whisk mashed bananas, buttermilk, eggs, and melted butter.",
+            "Pour the wet ingredients into the dry ingredients and stir until just combined.",
+            "Heat a non-stick skillet over medium heat and lightly grease with butter or oil.",
+            "Pour 1/4 cup of batter onto the skillet for each pancake. Cook until bubbles form on the surface, about 2-3 minutes.",
+            "Flip and cook the other side until golden brown, about 1-2 minutes more.",
+            "Serve warm with butter and maple syrup."
+          ]
+        },
+        "Chocolate Chip Pancakes": {
+          "image":"/img/3.webp",
+          "time": "25 minutes",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "2 tablespoons sugar",
+            "1 teaspoon baking powder",
+            "1/2 teaspoon baking soda",
+            "1/2 teaspoon salt",
+            "2 cups buttermilk",
+            "2 large eggs",
+            "1/4 cup unsalted butter, melted",
+            "1/2 cup chocolate chips"
+          ],
+          "directions": [
+            "In a large bowl, whisk together flour, sugar, baking powder, baking soda, and salt.",
+            "In another bowl, whisk buttermilk, eggs, and melted butter.",
+            "Pour the wet ingredients into the dry ingredients and stir until just combined. Fold in the chocolate chips.",
+            "Heat a non-stick skillet over medium heat and lightly grease with butter or oil.",
+            "Pour 1/4 cup of batter onto the skillet for each pancake. Cook until bubbles form on the surface, about 2-3 minutes.",
+            "Flip and cook the other side until golden brown, about 1-2 minutes more.",
+            "Serve warm with syrup."
+          ]
+        }
+      },
+      "Omelets": {
+        "Cheese Omelet": {"image":"/img/4.webp",
+          "time": "10 minutes",
+          "ingredients": [
+            "3 large eggs",
+            "1 tablespoon butter",
+            "Salt and pepper to taste",
+            "1/4 cup shredded cheese"
+          ],
+          "directions": [
+            "Whisk eggs in a bowl with salt and pepper.",
+            "Melt butter in a pan over medium heat.",
+            "Pour the egg mixture into the pan and cook until edges set.",
+            "Sprinkle cheese on top and fold the omelet in half.",
+            "Cook for an additional minute until cheese melts.",
+            "Serve hot."
+          ]
+        },
+        "Mushroom Omelet": {"image":"/img/5.webp",
+          "time": "15 minutes",
+          "ingredients": [
+            "3 large eggs",
+            "1 tablespoon olive oil",
+            "1/2 cup sliced mushrooms",
+            "Salt and pepper to taste",
+            "1/4 cup shredded cheese"
+          ],
+          "directions": [
+            "Heat olive oil in a pan and sauté mushrooms until soft.",
+            "Whisk eggs with salt and pepper.",
+            "Pour eggs over mushrooms and cook until edges set.",
+            "Sprinkle cheese on top and fold the omelet.",
+            "Serve hot."
+          ]
+        },
+        "Classic Omelet": {"image":"/img/6.webp",
+          "time": "10 minutes",
+          "ingredients": [
+            "3 large eggs",
+            "1 tablespoon butter",
+            "Salt and pepper to taste",
+            "1/4 cup shredded cheese"
+          ],
+          "directions": [
+            "Whisk eggs in a bowl with salt and pepper.",
+            "Melt butter in a non-stick pan over medium heat.",
+            "Pour the egg mixture into the pan and cook until edges set.",
+            "Sprinkle cheese on top and fold the omelet in half.",
+            "Cook for an additional minute until cheese melts.",
+            "Serve hot."
+          ]
+        }
+      },
+      "Waffles":{
+         "Belgian Waffles": {
+          "image":"/img/7.webp",
+          "time": "25 minutes",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "1 tablespoon sugar",
+            "1 tablespoon baking powder",
+            "1/2 teaspoon salt",
+            "1 1/2 cups milk",
+            "2 large eggs",
+            "1/4 cup melted butter",
+            "1 teaspoon vanilla extract"
+          ],
+          "directions": [
+            "In a bowl, combine dry ingredients.",
+            "In another bowl, whisk eggs, milk, melted butter, and vanilla.",
+            "Pour wet ingredients into dry ingredients and stir until just combined.",
+            "Heat waffle iron and cook according to the manufacturer's instructions.",
+            "Serve with syrup or toppings of your choice."
+          ]
+        },
+        "Chocolate Waffles": {
+          "image":"/img/8.webp",
+          "time": "30 minutes",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "1/2 cup cocoa powder",
+            "1 tablespoon baking powder",
+            "1/2 teaspoon salt",
+            "1 1/2 cups milk",
+            "2 large eggs",
+            "1/4 cup melted butter",
+            "1 teaspoon vanilla extract"
+          ],
+          "directions": [
+            "In a bowl, combine dry ingredients.",
+            "In another bowl, whisk eggs, milk, melted butter, and vanilla.",
+            "Pour wet ingredients into dry ingredients and stir until just combined.",
+            "Heat waffle iron and cook according to the manufacturer's instructions.",
+            "Serve with whipped cream or chocolate syrup."
+          ]
+        },
+        "Fruit Waffles": {
+          "image":"/img/9.webp",
+          "time": "30 minutes",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "1 tablespoon sugar",
+            "1 tablespoon baking powder",
+            "1/2 teaspoon salt",
+            "1 1/2 cups milk",
+            "2 large eggs",
+            "1/4 cup melted butter",
+            "1 cup mixed fresh fruit"
+          ],
+          "directions": [
+            "In a bowl, combine dry ingredients.",
+            "In another bowl, whisk eggs, milk, melted butter.",
+            "Pour wet ingredients into dry ingredients and stir until just combined.",
+            "Fold in fresh fruit.",
+            "Heat waffle iron and cook according to the manufacturer's instructions.",
+            "Serve warm with syrup or extra fruit."
+          ]
+        }
+      },
+       "Smoothies": {
+        "Berry Smoothie": {"image":"/img/10.webp",
+          "time": "5 minutes",
+          "ingredients": [
+            "1 cup frozen berries",
+            "1/2 cup yogurt",
+            "1/2 cup orange juice",
+            "1 tablespoon honey"
+          ],
+          "directions": [
+            "Blend all ingredients until smooth.",
+            "Serve immediately."
+          ]
+        },
+        "Tropical Smoothie": {"image":"/img/11.webp",
+          "time": "5 minutes",
+          "ingredients": [
+            "1/2 cup pineapple chunks",
+            "1/2 cup mango chunks",
+            "1/2 cup coconut milk",
+            "1 tablespoon honey"
+          ],
+          "directions": [
+            "Blend all ingredients until smooth.",
+            "Serve immediately."
+          ]
+        },
+        "Green Smoothie": {"image":"/img/12.webp",
+          "time": "5 minutes",
+          "ingredients": [
+            "1 cup spinach",
+            "1/2 banana",
+            "1/2 cup almond milk",
+            "1 tablespoon chia seeds"
+          ],
+          "directions": [
+            "Blend all ingredients until smooth.",
+            "Serve immediately."
+          ]
+        }
+    }
+  },
+    "Salads": {
+      "Green Salads": {
+        "Classic Garden Salad": {
+          "image":"/img/13.webp",
+          "time": "10 minutes",
+          "ingredients": [
+            "2 cups mixed greens",
+            "1 cucumber, sliced",
+            "1 tomato, chopped",
+            "1/4 cup red onion, thinly sliced",
+            "1 tablespoon olive oil",
+            "1 tablespoon balsamic vinegar",
+            "Salt and pepper to taste"
+          ],
+          "directions": [
+            "Combine greens, cucumber, tomato, and red onion in a bowl.",
+            "Drizzle with olive oil and balsamic vinegar.",
+            "Season with salt and pepper and toss well.",
+            "Serve immediately."
+          ]
+        },
+        "Caesar Salad": {
+          "image":"/img/14.webp",
+          "time": "15 minutes",
+          "ingredients": [
+            "4 cups romaine lettuce, chopped",
+            "1/2 cup croutons",
+            "1/4 cup grated Parmesan cheese",
+            "1/4 cup Caesar dressing"
+          ],
+          "directions": [
+            "Place romaine lettuce in a bowl.",
+            "Add Caesar dressing and toss to coat evenly.",
+            "Top with croutons and Parmesan cheese.",
+            "Serve immediately."
+          ]
+        }
+      },
+      "Pasta Salads": {
+        "Creamy Tuna Pasta Salad": {
+          "image":"/img/15.webp",
+        "time": "25 minutes",
+        "ingredients": [
+          "2 cups cooked pasta",
+          "1 can tuna, drained",
+          "1/2 cup cooked peas",
+          "1/4 cup mayonnaise",
+          "1 tablespoon lemon juice",
+          "Salt and pepper to taste"
+        ],
+        "directions": [
+          "Mix cooked pasta, tuna, and peas in a bowl.",
+          "Add mayonnaise and lemon juice, and mix well.",
+          "Season with salt and pepper.",
+          "Serve chilled."
+        ]
+      },
+        "Mediterranean Pasta Salad": {
+          "image":"/img/16.webp",
+          "time": "20 minutes",
+          "ingredients": [
+            "2 cups cooked pasta",
+            "1/2 cup cherry tomatoes, halved",
+            "1/4 cup black olives, sliced",
+            "1/4 cup crumbled feta cheese",
+            "2 tablespoons olive oil",
+            "1 tablespoon red wine vinegar",
+            "1 teaspoon dried oregano",
+            "Salt and pepper to taste"
+          ],
+          "directions": [
+            "Combine cooked pasta, tomatoes, olives, and feta cheese in a bowl.",
+            "Drizzle with olive oil and red wine vinegar.",
+            "Sprinkle with oregano, salt, and pepper, and toss well.",
+            "Serve chilled."
+          ]
+        }
+      },
+      "Potato Salads": {
+      "Classic Potato Salad": {
+        "image":"/img/17.webp",
+        "time": "30 minutes",
+        "ingredients": [
+          "4 cups boiled potatoes, cubed",
+          "1/2 cup mayonnaise",
+          "1 tablespoon mustard",
+          "1/4 cup celery, chopped",
+          "1/4 cup onion, chopped",
+          "Salt and pepper to taste"
+        ],
+        "directions": [
+          "Mix boiled potatoes, mayonnaise, mustard, celery, and onion in a bowl.",
+          "Season with salt and pepper and stir well.",
+          "Chill in the refrigerator for at least 30 minutes before serving."
+        ]
+      },
+      "German Potato Salad": {
+        "image":"/img/18.webp",
+        "time": "35 minutes",
+        "ingredients": [
+          "4 cups boiled potatoes, sliced",
+          "4 slices bacon, chopped",
+          "1/4 cup apple cider vinegar",
+          "1 tablespoon sugar",
+          "1 teaspoon Dijon mustard",
+          "1/4 cup onion, chopped",
+          "Salt and pepper to taste"
+        ],
+        "directions": [
+          "Cook bacon in a skillet until crispy, then remove and set aside.",
+          "In the same skillet, sauté onion.",
+          "Add vinegar, sugar, and mustard, and stir to combine.",
+          "Mix in boiled potatoes and cooked bacon, and toss well.",
+          "Season with salt and pepper.",
+          "Serve warm."
+        ]
+      }
+    },
+     "Fruit Salads": {
+      "Tropical Fruit Salad": {
+        "image":"/img/19.webp",
+        "time": "15 minutes",
+        "ingredients": [
+          "1 cup pineapple, diced",
+          "1 cup mango, diced",
+          "2 kiwis, sliced",
+          "1/2 cup strawberries, halved",
+          "1 tablespoon honey",
+          "1 teaspoon lime juice"
+        ],
+        "directions": [
+          "Combine pineapple, mango, kiwi, and strawberries in a bowl.",
+          "Drizzle with honey and lime juice.",
+          "Gently toss to coat.",
+          "Serve chilled."
+        ]
+      },
+      "Berry Medley Salad": {
+        "image":"/img/20.webp",
+        "time": "10 minutes",
+        "ingredients": [
+          "1 cup blueberries",
+          "1 cup raspberries",
+          "1 cup blackberries",
+          "1 tablespoon orange juice",
+          "1 teaspoon honey"
+        ],
+        "directions": [
+          "Mix blueberries, raspberries, and blackberries in a bowl.",
+          "Drizzle with orange juice and honey.",
+          "Toss gently and serve immediately."
+        ]
+      }
+     }
+    },
+    "Lunch": {
+"Sandwiches": {
+"Classic BLT Sandwich": {
+   "image":"/img/21.webp",
+"time": "10 minutes",
+"ingredients": [
+"2 slices of bread",
+"3 slices of bacon",
+"2 leaves of lettuce",
+"2 slices of tomato",
+"1 tablespoon mayonnaise"
+],
+"directions": [
+"Toast the bread slices until golden brown.",
+"Cook the bacon in a pan until crispy.",
+"Spread mayonnaise on one slice of bread.",
+"Layer the bacon, lettuce, and tomato on the bread.",
+"Top with the second slice of bread.",
+"Cut in half and serve."
+]
+}
+},
+"Soups": {
+"Tomato Soup": {
+   "image":"/img/22.webp",
+"time": "30 minutes",
+"ingredients": [
+"4 cups canned tomatoes",
+"1 onion, chopped",
+"2 cloves garlic, minced",
+"1 cup vegetable broth",
+"1 tablespoon olive oil",
+"Salt and pepper to taste"
+],
+"directions": [
+"Heat olive oil in a pot and sauté onion and garlic until soft.",
+"Add tomatoes and vegetable broth. Simmer for 20 minutes.",
+"Blend the soup until smooth and season with salt and pepper.",
+"Serve hot."
+]
+}
+},
+"Wraps": {
+"Chicken Caesar Wrap": {
+   "image":"/img/25.webp",
+"time": "20 minutes",
+"ingredients": [
+"1 grilled chicken breast, sliced",
+"2 cups romaine lettuce, chopped",
+"1/4 cup Caesar dressing",
+"1 flour tortilla",
+"1/4 cup shredded parmesan cheese"
+],
+"directions": [
+"Toss the lettuce with Caesar dressing and sliced chicken.",
+"Place the mixture in the center of the tortilla.",
+"Sprinkle with parmesan cheese and roll up the tortilla.",
+"Serve immediately."
+]
+}
+},
+"Burgers": {
+"Classic Cheeseburger": {
+   "image":"/img/23.webp",
+"time": "15 minutes",
+"ingredients": [
+"1 beef patty",
+"1 hamburger bun",
+"1 slice cheddar cheese",
+"Lettuce, tomato, pickles",
+"Ketchup and mustard"
+],
+"directions": [
+"Grill the beef patty until cooked to your liking.",
+"Place a slice of cheese on top of the patty and melt.",
+"Toast the hamburger bun.",
+"Assemble the burger with lettuce, tomato, pickles, and condiments.",
+"Serve immediately."
+]
+}
+},
+"Pizza": {
+"Margherita Pizza": {
+   "image":"/img/24.webp",
+"time": "25 minutes",
+"ingredients": [
+"1 pizza dough",
+"1/2 cup tomato sauce",
+"1 cup mozzarella cheese",
+"Fresh basil leaves",
+"Olive oil"
+],
+"directions": [
+"Preheat the oven to 475°F (245°C).",
+"Roll out the pizza dough on a floured surface.",
+"Spread tomato sauce over the dough.",
+"Top with mozzarella cheese and basil leaves.",
+"Bake for 15-20 minutes or until golden brown.",
+"Drizzle with olive oil before serving."
+]
+}
+}
+},
+    "Chicken":{
+      "Whole Chicken": {
+        
+      "Roast Whole Chicken": {
+        "image":"/img/26.webp",
+        "time": "1 hour 30 minutes",
+        "ingredients": [
+          "1 whole chicken (4-5 lbs)",
+          "2 tablespoons olive oil",
+          "1 lemon, halved",
+          "4 cloves garlic, crushed",
+          "1 tablespoon fresh rosemary, chopped",
+          "1 teaspoon paprika",
+          "Salt and pepper to taste"
+        ],
+        "directions": [
+          "Preheat oven to 375°F (190°C).",
+          "Rub the chicken with olive oil and season with salt, pepper, paprika, and rosemary.",
+          "Stuff the cavity with lemon halves and garlic.",
+          "Place chicken in a roasting pan and roast for 1.5 hours, basting occasionally.",
+          "Let rest for 10 minutes before carving."
+        ]
+      },
+      "Herb-Butter Whole Chicken": {
+        "image":"/img/27.webp",
+        "time": "1 hour 40 minutes",
+        "ingredients": [
+          "1 whole chicken (4-5 lbs)",
+          "1/4 cup unsalted butter, softened",
+          "2 tablespoons fresh parsley, chopped",
+          "2 teaspoons thyme, chopped",
+          "1 teaspoon garlic powder",
+          "Salt and pepper to taste"
+        ],
+        "directions": [
+          "Preheat oven to 375°F (190°C).",
+          "Mix butter with parsley, thyme, garlic powder, salt, and pepper.",
+          "Gently loosen the chicken skin and spread the herb butter underneath.",
+          "Roast the chicken for 1 hour 40 minutes, basting with pan drippings.",
+          "Let rest before serving."
+        ]
+      }
+    },
+    "Fried Chicken": {
+      "Classic Fried Chicken": {
+        "image":"/img/28.webp",
+        "time": "45 minutes",
+        "ingredients": [
+          "8 pieces chicken (thighs, drumsticks, breasts)",
+          "2 cups buttermilk",
+          "2 cups all-purpose flour",
+          "1 teaspoon paprika",
+          "1 teaspoon garlic powder",
+          "1/2 teaspoon cayenne pepper",
+          "Salt and pepper to taste",
+          "Vegetable oil for frying"
+        ],
+        "directions": [
+          "Marinate chicken in buttermilk for 4 hours or overnight.",
+          "Mix flour with paprika, garlic powder, cayenne, salt, and pepper.",
+          "Dredge the chicken in the flour mixture and shake off excess.",
+          "Heat oil in a skillet and fry chicken until golden brown and cooked through.",
+          "Drain on paper towels and serve."
+        ]
+      },
+      "Spicy Fried Chicken": {
+        "image":"/img/29.webp",
+        "time": "50 minutes",
+        "ingredients": [
+          "8 pieces chicken",
+          "2 cups buttermilk",
+          "2 tablespoons hot sauce",
+          "2 cups flour",
+          "1 teaspoon chili powder",
+          "1 teaspoon onion powder",
+          "Salt and pepper to taste",
+          "Oil for frying"
+        ],
+        "directions": [
+          "Combine buttermilk and hot sauce and marinate chicken for 4 hours.",
+          "Mix flour with chili powder, onion powder, salt, and pepper.",
+          "Dredge chicken in flour mixture and fry in hot oil until crispy and cooked through.",
+          "Serve hot with dipping sauce."
+        ]
+      }
+    },
+    "Chicken Wings": {
+      "Buffalo Chicken Wings": {
+        "image":"/img/30.webp",
+        "time": "30 minutes",
+        "ingredients": [
+          "2 lbs chicken wings",
+          "1/2 cup hot sauce",
+          "1/4 cup unsalted butter, melted",
+          "1 tablespoon white vinegar",
+          "Salt and pepper to taste",
+          "Vegetable oil for frying"
+        ],
+        "directions": [
+          "Fry chicken wings in hot oil until crispy and golden.",
+          "Mix hot sauce, melted butter, and vinegar in a bowl.",
+          "Toss fried wings in the sauce mixture until evenly coated.",
+          "Serve with celery sticks and ranch dressing."
+        ]
+      },
+      "Honey BBQ Wings": {
+        "image":"/img/31.webp",
+        "time": "40 minutes",
+        "ingredients": [
+          "2 lbs chicken wings",
+          "1/2 cup barbecue sauce",
+          "2 tablespoons honey",
+          "1 teaspoon garlic powder",
+          "Salt and pepper to taste",
+          "Vegetable oil for frying"
+        ],
+        "directions": [
+          "Fry chicken wings in hot oil until crispy.",
+          "Mix barbecue sauce, honey, garlic powder, salt, and pepper.",
+          "Toss fried wings in the honey BBQ sauce.",
+          "Serve warm."
+        ]
+      }
+    },
+    "Chicken Tenders": {
+      "Crispy Chicken Tenders": {
+        "image":"/img/32.webp",
+        "time": "30 minutes",
+        "ingredients": [
+          "1 lb chicken tenders",
+          "1 cup buttermilk",
+          "1 cup flour",
+          "1 cup panko breadcrumbs",
+          "1 teaspoon paprika",
+          "Salt and pepper to taste",
+          "Vegetable oil for frying"
+        ],
+        "directions": [
+          "Marinate chicken tenders in buttermilk for 30 minutes.",
+          "Dredge tenders in flour, then coat in panko mixed with paprika, salt, and pepper.",
+          "Fry in hot oil until golden brown and cooked through.",
+          "Serve with your favorite dipping sauce."
+        ]
+      },
+      "Baked Parmesan Chicken Tenders": {
+        "image":"/img/33.webp",
+        "time": "25 minutes",
+        "ingredients": [
+          "1 lb chicken tenders",
+          "1/2 cup grated Parmesan cheese",
+          "1 cup panko breadcrumbs",
+          "1 teaspoon Italian seasoning",
+          "1/4 teaspoon garlic powder",
+          "1 egg, beaten",
+          "Salt and pepper to taste"
+        ],
+        "directions": [
+          "Preheat oven to 400°F (200°C).",
+          "Mix Parmesan, panko, Italian seasoning, and garlic powder.",
+          "Dip chicken tenders in beaten egg, then coat with breadcrumb mixture.",
+          "Place on a baking sheet and bake for 20 minutes, turning halfway.",
+          "Serve with marinara sauce."
+        ]
+      }
+    }
+  
+  
+ },
+ "Beef":{
+  
+ }
+}
+}

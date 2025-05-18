@@ -1,0 +1,370 @@
+  /* :root {
+            --primary-color: #ff4d4d;
+            --secondary-color: #f9f9f9;
+            --text-color: #333;
+            --border-color: #ddd;
+            --hover-color: #e60000;
+            --link-color: #007bff;
+            --box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            --radius: 12px;
+            --transition: all 0.3s ease;
+        }
+
+       
+
+        h1 {
+            color: var(--text-color);
+            font-size: 28px;
+            font-weight: bold;
+            margin-bottom: 16px;
+            text-align: center;
+        }
+
+
+        input[type="text"],
+        input[type="password"] {
+            width: 100%;
+            padding: 14px;
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius);
+            box-sizing: border-box;
+            font-size: 16px;
+            transition: var(--transition);
+            text-align: center; 
+        }
+
+        input[type="text"]:focus,
+        input[type="password"]:focus {
+            border-color: var(--primary-color);
+            outline: none;
+            box-shadow: 0 0 8px rgba(255, 77, 77, 0.5);
+        }
+
+        .forgot-password {
+            color: var(--link-color);
+            font-size: 14px;
+            text-align: right;
+            cursor: pointer;
+            transition: var(--transition);
+            width: 100%; 
+        }
+
+        .forgot-password:hover {
+            text-decoration: underline;
+        }
+
+        .login-btn {
+            width: 100%;
+            background-color: var(--primary-color);
+            color: white;
+            padding: 14px;
+            border: none;
+            border-radius: var(--radius);
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: bold;
+            transition: var(--transition);
+            box-shadow: var(--box-shadow);
+            margin-top: 8px;
+        }
+
+        .login-btn:hover {
+            background-color: var(--hover-color);
+            transform: translateY(-2px);
+        }
+
+        .create-account {
+            color: var(--link-color);
+            font-size: 14px;
+            text-align: center;
+            cursor: pointer;
+            transition: var(--transition);
+        }
+
+        .create-account:hover {
+            text-decoration: underline;
+        }
+
+        
+        .continue-without-account-box {
+            background-color: #ffffff;
+            padding: 1px;
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius);
+            text-align: center;
+            font-size: 14px;
+            color: var(--link-color);
+            cursor: pointer;
+            transition: var(--transition);
+            box-shadow: var(--box-shadow);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 50px;
+            margin-top: -6px;
+            width: 100%;
+        }
+
+        .continue-without-account-box:hover {
+            background-color: #f1f1f1;
+            transform: translateY(-2px);
+        }
+
+        .logo-box {
+            width: 100%;
+            max-width: 400px;
+            height: 200px;
+            background-color: #f0f0f0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius);
+            margin-top: 20px;
+            color: #aaa;
+            font-size: 14px;
+            box-shadow: var(--box-shadow);
+        }
+
+        @media (max-width: 400px) {
+            h1 {
+                font-size: 24px;
+            }
+            .container {
+                padding: 16px;
+            }
+            input[type="text"],
+            input[type="password"],
+            .login-btn {
+                padding: 12px;
+            }
+            .continue-without-account-box {
+                padding: 12px;
+                height: 40px;
+            }
+            
+        }*/
+ 
+
+        .logo-box {
+            width: 100%;
+            max-width: 400px;
+            height: 200px;
+           
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius);
+           
+            color: #aaa;
+            font-size: 14px;
+            box-shadow: var(--box-shadow);
+        }
+
+
+/* Input alanlarını genişlet ve ortala */
+.input-group {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 300px; /* Genişliği sınırlamak için */
+}
+
+.input-group input {
+    width: 100%;
+    max-width: 300px;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    
+}
+h1{text-align: center; padding: 25px 0px 0px 0px;}
+.form{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+/* Kırmızı buton */
+.login-btn {
+    background-color: red; /* Buton rengi */
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding: 10px ;
+    border-radius: 8px;
+    cursor: pointer;
+    width: 100%;
+    max-width: 300px;
+    
+}
+/* Kırmızı buton üzerine gelince değişmesin */
+.login-btn:hover,
+.login-btn:focus {
+    background-color: red !important;
+    color: white !important;
+}
+
+/* Link ve metinleri ortala */
+.forgot-password,
+.create-account a, 
+.continue-without-account-box,
+button.btn.btn-red {
+     color:black;
+    text-align: center;
+    margin-top: 10px;
+    cursor: pointer;
+    
+}
+
+/* "Continue without an account" kutusu */
+.continue-without-account-box {
+    padding: 10px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    width: 100%;
+    max-width: 300px;
+    border: 1px solid #ccc;
+}
+.logo-box{
+    width: 100%;
+   
+}
+.logo-box img{width: 400px; height: 150px;}
+a.btn.btn-red,
+button.btn.btn-red{
+    background-color: red;
+    color: white;
+    border-radius: 10%;
+    padding: 10px;
+    text-decoration: none;
+    cursor: pointer;
+}
+/* Butonun genel görünümü */
+.btn.show-recipe-btn {
+    background-color: red; /* Turuncu renk */
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+/* Üzerine gelince değişiklik olmasını engelle */
+.btn.show-recipe-btn:hover,
+.btn.show-recipe-btn:focus,
+.btn.show-recipe-btn:active {
+    background-color: red !important; /* Rengi değiştirme */
+    color: white !important; /* Yazıyı değiştirme */
+    transform: none !important; /* Butonun boyutunu değiştirme */
+    box-shadow: none !important; /* Gölge efektini kaldır */
+}
+
+.collapse{
+    margin-left: 300px;
+}
+.custom-card {
+    margin: 10px; /* Kartlar arasına boşluk ekler */
+    min-height: 400px; /* Kartın minimum yüksekliği */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.custom-card img {
+    
+    object-fit: cover; /* Resmi kırpmadan orantılı küçültür */
+}
+.custom-card .card-body {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+/* Modal içeriğini daha dar yapmak */
+.modal-content {
+    margin: 15px;
+    padding: 20px;
+}
+
+/* Görseli ortalamak */
+#recipeImage {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+/* Listeyi düzenleme */
+#recipeIngredients, #recipeDirections {
+    padding-left: 0; /* Varsayılan boşluğu kaldır */
+}
+
+#recipeIngredients li, #recipeDirections li {
+    list-style-type: none; /* Madde işaretlerini kaldır */
+    padding: 5px 0; /* Daha okunaklı hale getirmek için boşluk ekleyelim */
+    border-bottom: 1px solid #ddd; /* Hafif bir alt çizgi */
+}
+
+#recipeIngredients li:last-child, #recipeDirections li:last-child {
+    border-bottom: none; /* Son öğede çizgiyi kaldır */
+}
+
+/* Modal başlığı için ekstra boşluk */
+.modal-header {
+    text-align: center;
+    border-bottom: 2px solid #ddd;
+}
+.login-container {
+          margin-top: 100px;
+            
+          
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            overflow: hidden;
+        }
+        .image-section {
+         
+            background: url('/login-mobile.webp') center/cover;
+            
+        }
+        .form-section {
+          
+          
+            padding: 80px;
+        }
+
+        .carousel-container {
+      position: relative;
+      overflow: hidden;
+    }
+
+    .carousel-inner-custom {
+      display: flex;
+      transition: transform 0.5s ease;
+    }
+
+    .carousel-item-custom {
+      min-width: 33.33%; /* 3 column view */
+      box-sizing: border-box;
+      padding: 0 10px;
+    }
+
+    .carousel-nav-btn {
+      position: absolute;
+      top: 40%;
+      transform: translateY(-50%);
+      background-color: rgba(0, 0, 0, 0.3);
+      border: none;
+      color: white;
+      padding: 10px;
+      z-index: 10;
+    }
+
+    .carousel-nav-left {
+      left: 0;
+    }
+
+    .carousel-nav-right {
+      right: 0;
+    }
